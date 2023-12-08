@@ -1,0 +1,1 @@
+Put all drawing files in here. Make sure you assign the material to the part before making the drawing!
